@@ -1,6 +1,28 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here </h2>
-<h3> Welcome To Dev_oppS </h3>
-<h3> This is for testing </h3>
-<h3> This is for testing </h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link rel="stylesheet" href="style.css">
+	<title>Color Game</title>
+</head>
+<body>
+	<h1>Welcome To DevOps Training In Telugu Batch 20 & 21 By Sreeharsha Veerapalli</h1>
+	<h1>Ansible Playbook Testing With Tags</h1>
+	<div id="smallcont">
+		<div></div>
+		<div id="try1">Lets Play</div>
+	</div>
+	<div id="container">
+		<div class="square"></div>
+		<div class="square"></div>
+		<div class="square"></div>
+		<div class="square"></div>
+		<div class="square"></div>
+		<div class="square"></div>
+	</div>
+	
+</body>
+<script type="text/javascript" src="scorekeeper.js"></script>
+</html>
