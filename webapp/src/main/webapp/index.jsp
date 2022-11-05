@@ -5,6 +5,7 @@
     <hr>
 
     <label for="email"><b>Email</b></label>
+   <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" required>
 
     <label for="psw"><b>Password</b></label>
@@ -24,4 +25,5 @@
       <button type="submit" class="signupbtn">Sign Up</button>
     </div>
   </div>
-</form>
+</form
+>
