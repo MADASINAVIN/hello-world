@@ -3,13 +3,11 @@
     <h1>New Sign Up</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
-    <hr>
-
     <label for="name"><b>Name</b></label>
-    <input type="text" placeholder="Enter Name" name="name" required>
+    <input type="name" placeholder="Enter Name" name="name" required>
 
     <label for="email"><b>Email</b></label>
-    <label for="psw"><b>Password</b></label>
+    <input type="email" placeholder="Enter Password" name="psw" required>
     
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" required>
