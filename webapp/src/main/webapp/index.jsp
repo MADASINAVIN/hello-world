@@ -3,7 +3,7 @@
     <h1>New Sign Up</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
-    <label for="name"><b>Enter_Name</b></labeli
+    <label for="name"><b>enter__Name</b></labeli
     <input type="name" placeholder="Enter Name" name="name" required>
 
     <label for="email"><b>Enter_Email</b></label>
