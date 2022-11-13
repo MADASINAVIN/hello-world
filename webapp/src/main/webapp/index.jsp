@@ -3,17 +3,22 @@
     <h1>New Sign Up</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
-    <label for="name"><b>enter__Name</b></labeli
-    <input type="name" placeholder="Enter Name" name="name" required>
-
-    <label for="email"><b>Enter_Email</b></label>
-    <input type="email" placeholder="Enter Password" name="psw" required>
     
-    <label for="psw"><b>enter_Password</b></label>
+    <label for="name"><b>Enter-Name</b></labeli
+    <input type="name" placeholder="Enter Name" name="name" required> 
+    <br>
+
+    <label for="email"><b>Enter-Email</b></label>
+    <input type="email" placeholder="Enter Password" name="psw" required>
+    <br>
+    
+    <label for="psw"><b>Enter-Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" required>
+    <br>
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" required>
+    <br>
 
     <label>
       <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Remember me
