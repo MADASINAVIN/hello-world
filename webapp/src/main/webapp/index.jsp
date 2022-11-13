@@ -6,7 +6,7 @@
     <label for="name"><b>Enter_Name</b></labeli
     <input type="name" placeholder="Enter Name" name="name" required>
 
-    <label for="email"><b>Email</b></label>
+    <label for="email"><b>Enter_Email</b></label>
     <input type="email" placeholder="Enter Password" name="psw" required>
     
     <label for="psw"><b>Password</b></label>
