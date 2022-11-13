@@ -9,7 +9,7 @@
     <label for="email"><b>Enter_Email</b></label>
     <input type="email" placeholder="Enter Password" name="psw" required>
     
-    <label for="psw"><b>Enter_Password</b></label>
+    <label for="psw"><b>enter_Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" required>
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
